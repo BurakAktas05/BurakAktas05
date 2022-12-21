@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BurakAktas05
-- 👀 I’m interested in chess
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me burakaktas0706@gmail.com
